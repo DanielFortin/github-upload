@@ -1,0 +1,13 @@
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\bin\Debug\netcoreapp3.1\lengthandwidth.exe
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\bin\Debug\netcoreapp3.1\lengthandwidth.deps.json
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\bin\Debug\netcoreapp3.1\lengthandwidth.runtimeconfig.json
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\bin\Debug\netcoreapp3.1\lengthandwidth.runtimeconfig.dev.json
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\bin\Debug\netcoreapp3.1\lengthandwidth.dll
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\bin\Debug\netcoreapp3.1\lengthandwidth.pdb
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.AssemblyInfoInputs.cache
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.AssemblyInfo.cs
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.csproj.CoreCompileInputs.cache
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.dll
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.pdb
+C:\Users\Zapca\Desktop\class notes\Intro to programming\Project Files\Lab3\lengthandwidth\lengthandwidth\obj\Debug\netcoreapp3.1\lengthandwidth.genruntimeconfig.cache
